@@ -45,3 +45,27 @@ a:hover {
   border-radius: 50%;
   box-shadow: 1px 1px 1px rgb( 110, 110, 110)
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgb(93, 97, 119);
+  font-size: 40px;
+}
+
+#sidebar ul {
+  padding-left: 0;
+  text-align: center;
+}
+
+#sidebar li {
+  list-style: none;
+  margin: 40px 0;
+}
+
+#page-content {
+  margin-left: 100px;
+}
