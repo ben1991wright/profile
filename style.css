@@ -66,6 +66,10 @@ a:hover {
   margin: 40px 0;
 }
 
+#sidebar a:hover {
+  color: white;
+}
+
 #page-content {
   margin-left: 100px;
 }
